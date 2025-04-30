@@ -12,3 +12,4 @@ app.use(router)
 app.use(ElementPlus)
 
 app.mount('#app')
+document.title = 'RSC配置生成器';
