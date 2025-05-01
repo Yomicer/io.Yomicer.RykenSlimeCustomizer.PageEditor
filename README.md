@@ -10,4 +10,4 @@ rsc配置文件编辑器 （网页版）~
 建议结合wiki一起使用~
 
 
-[https://yomicer.github.io/io.Yomicer.RykenSlimeCustomizer.PageEditor "RSC编辑器网页版"][点击跳转RSC编辑器]
+https://yomicer.github.io/io.Yomicer.RykenSlimeCustomizer.PageEditor
