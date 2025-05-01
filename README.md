@@ -8,3 +8,6 @@ rsc配置文件编辑器 （网页版）~
 可以帮助你快速上手rsc这款插件的配置文件编写~
 
 建议结合wiki一起使用~
+
+
+https://yomicer.github.io/io.Yomicer.RykenSlimeCustomizer.PageEditor
